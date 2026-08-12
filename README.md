@@ -14,3 +14,9 @@ A comprehensive research project analyzing Chanakya’s contributions to economi
 
 ## License
 This project is released under the MIT License. See the LICENSE file for details.
+
+## Repository Structure
+- **/paper** — Original research paper files (DOCX, PDF)
+- **/sections** — Markdown versions of each chapter
+- **/references** — Bibliography and citation files
+- **/assets** — Diagrams, tables, and supporting visuals
