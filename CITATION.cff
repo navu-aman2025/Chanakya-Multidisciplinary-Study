@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this research in your work, please cite it using the following format."
+title: "Chanakya: A Multidisciplinary Study"
+authors:
+  - family-names: "Kaur"
+    given-names: "Navpreet"
+    orcid: ""
+abstract: "A multidisciplinary academic study analyzing Chanakya’s contributions to economics, political science, sociology, governance, and modern statecraft, including comparative analysis with Indian Acharyas and Greek philosophers."
+keywords:
+  - Chanakya
+  - Arthashastra
+  - political science
+  - economics
+  - sociology
+  - governance
+  - statecraft
+  - comparative politics
+  - Indian philosophy
+license: "MIT"
+repository-code: "https://github.com/navu-aman2025/Chanakya-Multidisciplinary-Study"
+date-released: "2026-08-12"
