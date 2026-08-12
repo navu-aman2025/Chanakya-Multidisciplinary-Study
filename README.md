@@ -20,3 +20,7 @@ This project is released under the MIT License. See the LICENSE file for details
 - **/sections** — Markdown versions of each chapter
 - **/references** — Bibliography and citation files
 - **/assets** — Diagrams, tables, and supporting visuals
+
+## How to Cite
+Amandeep (2026). *Chanakya: A Multidisciplinary Study*. GitHub Repository.  
+https://github.com/navu-aman2025/Chanakya-Multidisciplinary-Study
