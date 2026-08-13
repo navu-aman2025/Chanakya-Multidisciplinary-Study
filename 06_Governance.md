@@ -10,3 +10,9 @@ Core governance principles:
 - Welfare policies and disaster management
 
 His governance framework aligns closely with modern public administration theories.
+
+
+![Governance Flowchart](assets/Governance_Structure.png)
+
+**Figure: Governance Flowchart**  
+This diagram visualizes Chanakya’s administrative hierarchy, showing the flow of authority from the King to Ministers, Departments, Officers, and Citizens.
