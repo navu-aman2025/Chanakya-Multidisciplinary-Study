@@ -10,3 +10,8 @@ Major concepts:
 - Internal security and external defense
 
 Chanakya’s political science contributions remain relevant in discussions on realpolitik, strategic studies, and governance models.
+
+![Saptanga Theory](assets/Saptanga_Theory.png)
+
+**Figure: Saptanga Theory Diagram**  
+This diagram illustrates Chanakya’s seven limbs of the state — Swami, Amatya, Janapada, Durga, Kosha, Danda, and Mitra — showing how each component supports stable governance.
