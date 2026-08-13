@@ -10,3 +10,9 @@ Key themes include:
 - Welfare measures and poverty alleviation
 
 Chanakya’s economic insights demonstrate a sophisticated understanding of macroeconomic and microeconomic principles long before modern economics emerged.
+
+
+![Economic System](assets/Economic_System.png)
+
+**Figure: Economic System of the State**  
+This diagram presents Chanakya’s economic model, highlighting revenue sources, taxation, market regulations, and welfare measures.
