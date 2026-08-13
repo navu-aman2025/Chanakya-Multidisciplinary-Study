@@ -1,0 +1,13 @@
+title: "Chanakya: A Multidisciplinary Study"
+description: "An academic research project exploring Chanakya’s contributions to economics, political science, sociology, governance, and statecraft."
+theme: null
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - README.md
