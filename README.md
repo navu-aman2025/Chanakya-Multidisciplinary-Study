@@ -84,3 +84,6 @@ See the LICENSE file for details.
 This project integrates classical Indian philosophy, modern academic frameworks, and structured research methodology. Special appreciation to open‑source tools, digital libraries, and scholarly translations that made this study possible.
 
 
+## 📦 Releases
+The latest release is **Version 1.0 — Final Academic Edition**.  
+See full release notes in the **Releases** tab.
