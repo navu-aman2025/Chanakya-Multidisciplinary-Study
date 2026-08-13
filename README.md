@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+
 # Chanakya: A Multidisciplinary Study  
 A comprehensive research project analyzing Chanakya’s contributions to economics, political science, sociology, governance, and modern statecraft. This study examines the *Arthashastra*, compares Chanakya with Indian Acharyas and Greek philosophers, and explores how his principles appear in modern leadership and administrative systems.
 
