@@ -14,25 +14,31 @@ This repository presents a structured, academic exploration of Chanakya’s mult
 ---
 
 ## 📂 Contents
-- **01_Abstract.md**  
-- **02_Introduction.md**  
-- **03_Economic_Thought.md**  
-- **04_Political_Science.md**  
-- **05_Sociology.md**  
-- **06_Governance.md**  
-- **07_Comparative_Analysis.md**  
-- **08_Modern_Case_Studies.md**  
-- **09_Conclusion.md**  
-- **10_References.md**  
-- **11_Methodology.md**  
-- **12_Literature_Review.md**  
-- **13_Discussion.md**  
-- **14_Limitations.md**  
-- **15_Future_Research.md**  
-- **Glossary.md**  
-- **Appendix.md**  
-- **List_of_Figures.md**  
-- **List_of_Tables.md**
+- 01_Abstract.md  
+- 02_Introduction.md  
+- 03_Economic_Thought.md  
+- 04_Political_Science.md  
+- 05_Sociology.md  
+- 06_Governance.md  
+- 07_Comparative_Analysis.md  
+- 08_Modern_Case_Studies.md  
+- 09_Conclusion.md  
+- 10_References.md  
+- 11_Methodology.md  
+- 12_Literature_Review.md  
+- 13_Discussion.md  
+- 14_Limitations.md  
+- 15_Future_Research.md  
+- Glossary.md  
+- Appendix.md  
+- List_of_Figures.md  
+- List_of_Tables.md  
+
+---
+
+## 📦 Releases
+- **v1.0 — Final Academic Edition**  
+  Full release notes available in `/releases/Release_v1.0.md`.
 
 ---
 
@@ -54,6 +60,7 @@ These visuals provide conceptual clarity and support the multidisciplinary analy
 /sections     — Markdown versions of each chapter
 /references   — Bibliography and citation files
 /assets       — Diagrams, tables, and supporting visuals
+/releases     — Version notes and roadmap files
 
 
 ---
@@ -87,8 +94,3 @@ See the LICENSE file for details.
 
 ## ✨ Acknowledgments
 This project integrates classical Indian philosophy, modern academic frameworks, and structured research methodology. Special appreciation to open‑source tools, digital libraries, and scholarly translations that made this study possible.
-
-
-## 📦 Releases
-The latest release is **Version 1.0 — Final Academic Edition**.  
-See full release notes in the **Releases** tab.
