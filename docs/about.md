@@ -6,8 +6,7 @@ This project is an academic exploration of Chanakya’s multidisciplinary contri
 To present a structured, research‑grade study accessible to students, researchers, and scholars.
 
 ## 👤 Author
-Navpreet Kaur 
-
+Navpreet Kaur
 Barrie, Ontario, Canada
 
 ## 🔗 Repository
