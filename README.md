@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/chanakya_banner.jpg" alt="Chanakya Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="assets/chanakya_logo.png" alt="Chanakya Multidisciplinary Study Logo" width="250">
