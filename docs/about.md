@@ -1,4 +1,5 @@
-<img src="../assets/chanakya_banner.png" alt="Chanakya Multidisciplinary Study Banner" width="100%">
+<img src="../assets/chanakya_logo.png" alt="Chanakya Multidisciplinary Study Logo" width="250">
+
 
 
 # About This Project
