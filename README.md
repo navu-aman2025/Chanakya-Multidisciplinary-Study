@@ -103,3 +103,11 @@ See the LICENSE file for details.
 
 ## ✨ Acknowledgments
 This project integrates classical Indian philosophy, modern academic frameworks, and structured research methodology. Special appreciation to open‑source tools, digital libraries, and scholarly translations that made this study possible.
+
+## 🌐 Website
+Visit the full project website:  
+https://navu-aman2025.github.io/Chanakya-Multidisciplinary-Study/
+
+## 🛣️ Roadmap
+See planned enhancements in  
+`/releases/Roadmap_v1.1.md`
