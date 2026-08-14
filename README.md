@@ -92,8 +92,8 @@ These additions elevate the project to publication‑ready quality.
 ## 🎤 Presentation
 You can view or download the presentation:
 
-- [PDF Version](presentation/Chanakya_Multidisciplinary_Study_Presentation.pdf)
-- [PowerPoint Version](presentation/Chanakya_Multidisciplinary_Study_PPT.pptx)
+- [PDF Version](presentation/Chanakya-Multidisciplinary-Study-Presentation.pdf)
+- [PowerPoint Version](presentation/Chanakya-Multidisciplinary-Study-PPT.pptx)
 
 ---
 
@@ -142,5 +142,5 @@ For academic collaboration or inquiries:
 
 ## 📄 Full Paper (PDF)
 Download the complete research paper:  
-[paper/Chanakya_Multidisciplinary_Study.pdf](paper/Chanakya_Multidisciplinary_Study.pdf)
+[paper/Chanakya_Multidisciplinary_Study.pdf](paper/Chanakya-Multidisciplinary-Study.pdf)
 
