@@ -15,7 +15,7 @@
 A comprehensive research project analyzing Chanakya’s contributions to economics, political science, sociology, governance, and modern statecraft. This study examines the *Arthashastra*, compares Chanakya with Indian Acharyas and Greek philosophers, and explores how his principles appear in modern leadership and administrative systems.
 
 ---
-<img src="assets/favicon.jpg" width="32" alt="Chanakya favicon">
+
 
 ## 📘 Project Overview
 This repository presents a structured, academic exploration of Chanakya’s multidisciplinary thought. It includes chapter‑wise Markdown sections, diagrams, comparative charts, literature review, methodology, glossary, and appendices — making it suitable for academic reference, teaching, and research.
@@ -65,11 +65,11 @@ These visuals provide conceptual clarity and support the multidisciplinary analy
 ---
 
 ## 📑 Repository Structure
-/paper        — Original research paper files (DOCX, PDF)
-/sections     — Markdown versions of each chapter
-/references   — Bibliography and citation files
-/assets       — Diagrams, tables, and supporting visuals
-/releases     — Version notes and roadmap files
+- **/paper** — Original research paper files (DOCX, PDF)  
+- **/sections** — Markdown versions of each chapter  
+- **/references** — Bibliography and citation files  
+- **/assets** — Diagrams, tables, and supporting visuals  
+- **/releases** — Version notes and roadmap files  
 
 
 ---
@@ -86,6 +86,14 @@ This repository includes several academic‑grade additions:
 - **List of Figures** and **List of Tables**  
 
 These additions elevate the project to publication‑ready quality.
+
+---
+
+## 🎤 Presentation
+You can view or download the presentation:
+
+- [PDF Version](presentation/Chanakya_Multidisciplinary_Study_Presentation.pdf)
+- [PowerPoint Version](presentation/Chanakya_Multidisciplinary_Study_PPT.pptx)
 
 ---
 
