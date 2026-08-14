@@ -1,3 +1,7 @@
+<img src="../assets/chanakya_banner.png" alt="Chanakya Multidisciplinary Study Banner" width="100%">
+
+
+
 # Chanakya: A Multidisciplinary Study
 
 Welcome to the official website for the multidisciplinary academic study on Chanakya.  
