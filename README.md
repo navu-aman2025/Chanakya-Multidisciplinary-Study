@@ -97,6 +97,22 @@ You can view or download the presentation:
 
 ---
 
+## 🚀 Quick Start
+- Read the **Abstract** to understand the scope  
+- Explore **Research Sections** for chapter‑wise content  
+- View **Diagrams** in `/assets` for conceptual clarity  
+- Download the **Presentation** for a summarized overview  
+- Visit the **Website** for a clean academic layout  
+
+
+---
+
+## 🤝 Contributing
+Contributions to improve clarity, add references, or expand comparative analysis are welcome.  
+Please open an issue or submit a pull request.
+
+---
+
 ## 🔗 How to Cite
 Navpreet (2026). *Chanakya: A Multidisciplinary Study*. GitHub Repository.  
 https://github.com/navu-aman2025/Chanakya-Multidisciplinary-Study
@@ -119,3 +135,12 @@ https://navu-aman2025.github.io/Chanakya-Multidisciplinary-Study/
 ## 🛣️ Roadmap
 See planned enhancements in  
 `/releases/Roadmap_v1.1.md`
+
+## 📬 Contact
+For academic collaboration or inquiries:  
+**Navpreet** — via GitHub: https://github.com/navu-aman2025
+
+## 📄 Full Paper (PDF)
+Download the complete research paper:  
+[paper/Chanakya_Multidisciplinary_Study.pdf](paper/Chanakya_Multidisciplinary_Study.pdf)
+
